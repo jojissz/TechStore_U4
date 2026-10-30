@@ -4,7 +4,7 @@ from cargar_csv import load_fixture
 from app.domain import InvalidOrderTransition, InvalidOrderData
 from app.discounts import discount_details
 
-# Variable global para almacenar los pedidos en memoria
+# Variable para almacenar los pedidos en memoria
 orders = {}
 
 @asynccontextmanager
