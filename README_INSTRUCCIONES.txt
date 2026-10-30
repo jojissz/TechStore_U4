@@ -1,12 +1,12 @@
-TECHSTORE U4 - PROYECTO COMPLETADO A PARTIR DE LOS ZIP DEL MAESTRO
+TECHSTORE U4 - PROYECTO COMPLETADO A PARTIR DEL ZIP DEL MAESTRO
 
 ESTRUCTURA
  app/            logica y API, con descuentos y operaciones nuevas
- datos/          CSV originales SIN CAMBIOS
+ datos/          CSV originales 
  cargar_csv.py   cargador original colocado en la raiz correcta
  tests/          tests de escenarios E01-E15
 
-REQUISITOS: Python 3.11+ y VS Code (opcional)
+REQUISITOS: Python 3.11+ y VS Code 
 
 PASO 1. Abre en VS Code ESTA carpeta TechStore_U4_Completo.
 PASO 2. Abre Terminal > Nueva terminal y ejecuta:
